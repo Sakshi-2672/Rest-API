@@ -4,7 +4,8 @@
   "description": "An app demonstrating simple Restful API implementation",
   "main": "index.js",
   "scripts": {
-    "Sakshi": "nodemon index.js"
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
   },
   "author": "Sakshi Zalavadia",
   "license": "ISC",
