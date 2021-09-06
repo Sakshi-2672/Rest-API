@@ -1,0 +1,17 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "An app demonstrating simple Restful API implementation",
+  "main": "index.js",
+  "scripts": {
+    "Sakshi": "nodemon index.js"
+  },
+  "author": "Sakshi Zalavadia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4"
+  }
+}
